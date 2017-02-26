@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "work-capital-data-analysis",
+  "private_key_id": "cc2127a7a372430844c9a0ce7af14d5820d31866",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCyWKUW3IJFI6zI\n9RGHjMF4dkyRggafnpsNVMM8IXjlvhu6CyxeHjLDBWZAv3hWZzDShcnhf9rSW0b/\nnYEKWPj0OArInfBKcvlD+6y8QxjsemU3w2RYyKQnxL/rQbvlqnBX84uXIIvCpCyU\n+L+ynUZ726NBVDrVRlCq8GoKyW0+7MOaOc28NscJBQ7Q6wBTAT1nKk95ll5ZskfB\nbejtbZf0wPTRY8RH0vktY15KmzPYLRjzbG8jC80kxHUzuuM6MK1vT8h++29M/APd\ndXuGNOWQa+zvgRl3nH2NKjSj6TPN2ziAMJ4VL6id4YY0wNr9dCxTj5f9EZN110K1\n6TJAi9sRAgMBAAECggEASg7BTwL2HVu5DiGly9HJLQqCtRF3SqUD4b9G6xtDJrOQ\ns+qb2+FSVuVRFqXrhIWJIoJn2HnNFfjNPKvcv70+c7spzzC2bVPc6jwB+JMsMFaK\n3WMHsk5uzAzJXRmIus/RotQBLRpYrtSZpqq8f6ELebc0zZX6cEGokbMPdbc65Bue\npSVtwsJEuP7PIR8Nl1a0DfhpuEDzvTNQ1iORhd84s1uaXijYbdNsU+OJ/Lb2LMb/\nyEbkZ8KhYCW4AClGxJoAu4+m2wVnDF67n2y/RuP9pdRT8R6ctxRwHZOozxcYYpU0\nMUHMD/x6poWUW3XU2dkg9KlPJBP/h1/ps3Cs9D8YIQKBgQDskepThcmZtrGIgMlT\n7HkyUXLDndVr6jMjsJ8sylKBOvR1+AWf5ytkkrlbG62jOvyB9uoAN5sWlZhJF693\nBDkGt7W2HBRsbPrfmLigVCTB5aSO9LzEqkCr27sorAykHHSZVQ1zv0tCLsi0AYAa\niHZz864CufYCL8TpfTQDhZn5JQKBgQDA/obM5c8SAsRU0H8nGcl2+dSZCmfdD8MK\nKgOpVBvfoiWeiKnrMiq/ydTov1pbZGE346GZ9apPeIxKdRjsG8VxfzaPvJXnclJh\nQvJpo3rT3Ec6aGPWK0kM60A3KGIlAK+v+9bmg33qRaELO+fQ2Mx6EKdRhO02v1UI\nkpjFGcQkfQKBgQDmhhGnLfmTdfltoMGOrCI1rDR+9jBgJimLH7McPFNFZqOMyREC\nDou0R12jsEb1hqdEJc1EROs1iLSKlTAAc/b12tKREK++MDwO4o0WfqgK4bIHM+k2\nYwj97vJj4bO3v5rHR6ACKGg3p8sfzU59jHiQ6OWp9ngJDW9+bujefbPamQKBgQCT\nTLDOCkh1Uq9OnKOv0Dq4GA5vkEWdr74JL/ADeTKdCUD1MxGddXizUPSzf/kS8BZT\ndeWNgLcwWK2a1qzi6H9WFOYr5p/zOootuc8TWbcRpHqo1av9dqQWvCcS8juWSmPN\nScXHwmyENgioblyMRiwqrjNGQNJcisP3+wumw/e0cQKBgQCRih00SznKSr4sYdse\nfozY/xi4s4S5h9koxneQFiqtgSKu/8K+1OaonIPjKX0meyNYwphJm/tfbhMGw2rT\nZ41pogBYdvxMLXOw/v4BfFlI3OtOoVWbxVQCu1wXhWojG3zX6chjcjfzs0UE58hg\nzv7y7xn2FtRFBJTcfXV8P7cFDQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bank-972@work-capital-data-analysis.iam.gserviceaccount.com",
+  "client_id": "106135001857471626182",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bank-972%40work-capital-data-analysis.iam.gserviceaccount.com"
+}

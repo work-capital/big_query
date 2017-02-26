@@ -2,6 +2,10 @@
 # and its dependencies with the aid of the Mix.Config module.
 use Mix.Config
 
+config :big_query,
+  bigquery_private_key_path: "./work-capital-data-analysis-cc2127a7a372.json"
+
+
 # This configuration is loaded before any dependency and is restricted
 # to this project. If another project depends on this project, this
 # file won't be loaded nor affect the parent project. For this reason,
