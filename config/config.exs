@@ -3,8 +3,10 @@
 use Mix.Config
 
 config :big_query,
-  bigquery_private_key_path: "./work-capital-data-analysis-cc2127a7a372.json"
-
+  bigquery_private_key_path: "./work-capital-data-analysis-cc2127a7a372.json",
+  project_id: "work-capital-data-analysis",
+  view:       "ProductionViews.OMIE_DECISION",
+  uuid:       "a9382faffc2c0b24b028c47f4c3b17b5"
 
 # This configuration is loaded before any dependency and is restricted
 # to this project. If another project depends on this project, this

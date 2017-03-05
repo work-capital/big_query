@@ -37,9 +37,7 @@ defmodule BigQuery.Mixfile do
     [
       {:jose, "~> 1.8"},
       {:poison, "~> 3.1"},
-      {:httpoison, "~> 0.11.0"},
-      {:hackney, "1.6.1", override: true},
-
+      {:httpoison, "~> 0.11.1"},
       {:dialyze, "0.2.0", only: :dev},
       {:earmark, "0.2.1", only: :dev},
       {:ex_doc, "0.11.4", only: :dev}
