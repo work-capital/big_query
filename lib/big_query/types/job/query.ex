@@ -15,7 +15,7 @@ defmodule BigQuery.Types.Query do
   * maximumBillingTier - [Optional] Overrides the bigquery default value for the billing tier limit
   """
   defstruct kind: "bigquery#queryRequest", query: nil, maxResults: nil,
-            defaultDataset: nil, timeoutMs: nil, dryRun: nil, useQueryCache: nil, maximumBillingTier: nil, useLegacySql: nil, parameterMode: nil, queryParameters: []
+            defaultDataset: nil, timeoutMs: nil, dryRun: nil, useQueryCache: nil, maximumBillingTier: nil, useLegacySql: nil, queryParameters: []
 
   @type t :: %__MODULE__{
     kind: String.t,
@@ -27,7 +27,7 @@ defmodule BigQuery.Types.Query do
     useQueryCache: boolean | nil,
     maximumBillingTier: String.t | nil ,
     useLegacySql: boolean | nil,
-    parameterMode: String.t | nil,
+    # parameterMode: String.t | nil,
     queryParameters: [BigQuery.Types.Parameter.t]
   }
 
